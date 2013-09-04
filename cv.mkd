@@ -1,19 +1,51 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+* Área de Esportes
+* Área de Jornalismo
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+## Dados pessoais ##
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Data de nascimento: 19/09/1989
+
+Estado Civil: Solteiro
+
+## Resumo ##
+
+Viciado em Pringles, Red Bull e Coca-Cola.
+
+Tenho 5 anos de experiência no mercado web.
+
+Trabalhei com clientes como Petrobras, Iveco, Direcional Engenharia, Autarquia Federal e Grupo Seculus, desenvolvendo campanhas de mídia digital. Trabalho com várias linguagens, tais como PHP, C + +, Python, Ruby, HTML, CSS, JavaScript, SQL.
+
+## Formação acadêmica ##
+
+Infelismente acabei largando a escola depois de formar o segundo grau para poder aprofundar em PHP e projetos que começei a trabalhar.
+Porém tenho vontade e sinto muito a necessidade de entrar na faculdade nesse próximo ano.
+
+## Experiência ##
+
+#### [Plan B Comunicação Online](http://www.planb.com.br) ####
+
+Desenvolvedor - abril de 2012 – Até o momento (1 ano 6 meses)
+
+
+#### [Conselho Regional de Biblioteconomia 6 Região](http://www.crb6.org.br/) ####
+
+Assessor de Informática - janeiro de 2006 – junho de 2012 (6 anos 6 meses)
+
+#### Agência Bless ####
+
+Programador PHP Pleno - outubro de 2011 – abril de 2012 (7 meses)
+
+
+### Laju Processamento de Dados ####
+
+Analista de Sistemas - julho de 2011 – outubro de 2011 (4 meses)
+
+## Interesses ##
+
+Tenho bastante interesse em aprender mais e trabalhar em projetos de grande porte.

@@ -3,6 +3,9 @@ Vaga
 
 * Área de Esportes
 * Área de Jornalismo
+* Área de Webmedia
+* Plataforma de Personalização
+* Área de Semântica
 
 CV
 ==
